@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekyelleti
 - 👀 I’m interested in LEARNING NEW THINGS
 - 🌱 I’m currently learning Machine Learning, Deep Learning
-- 💞️ I’m looking to collaborate on NITW and IDRBT.
+- 💞️ I’m looking to collaborate on Deep Learning, Federative Learning.
 - 📫 How to reach me post me mail vivekvvy3@gmail.com
 
 <!---
